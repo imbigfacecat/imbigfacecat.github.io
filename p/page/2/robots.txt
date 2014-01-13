@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://cokeboy.github.io/test-octopress/sitemap.xml 

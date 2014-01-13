@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://cokeboy.github.io/test-octopress/atom.xml" rel="self"/>
+  <link href="http://cokeboy.github.io/test-octopress/"/>
+  <updated>2014-01-01T21:55:15+08:00</updated>
+  <id>http://cokeboy.github.io/test-octopress/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[手机APP3]]></title>
+    <link href="http://cokeboy.github.io/test-octopress/p/2013/12/17/app3/"/>
+    <updated>2013-12-17T20:43:26+08:00</updated>
+    <id>http://cokeboy.github.io/test-octopress/p/2013/12/17/app3</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[手机APP2]]></title>
+    <link href="http://cokeboy.github.io/test-octopress/p/2013/12/17/app2/"/>
+    <updated>2013-12-17T20:43:26+08:00</updated>
+    <id>http://cokeboy.github.io/test-octopress/p/2013/12/17/app2</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[手机APP1]]></title>
+    <link href="http://cokeboy.github.io/test-octopress/p/2013/12/17/app1/"/>
+    <updated>2013-12-17T20:43:26+08:00</updated>
+    <id>http://cokeboy.github.io/test-octopress/p/2013/12/17/app1</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Web1]]></title>
+    <link href="http://cokeboy.github.io/test-octopress/p/2013/12/17/web1/"/>
+    <updated>2013-12-17T20:43:21+08:00</updated>
+    <id>http://cokeboy.github.io/test-octopress/p/2013/12/17/web1</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[广告策划5]]></title>
+    <link href="http://cokeboy.github.io/test-octopress/p/2013/12/17/ad5/"/>
+    <updated>2013-12-17T20:34:45+08:00</updated>
+    <id>http://cokeboy.github.io/test-octopress/p/2013/12/17/ad5</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[广告策划4]]></title>
+    <link href="http://cokeboy.github.io/test-octopress/p/2013/12/17/ad4/"/>
+    <updated>2013-12-17T20:34:45+08:00</updated>
+    <id>http://cokeboy.github.io/test-octopress/p/2013/12/17/ad4</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[广告策划3]]></title>
+    <link href="http://cokeboy.github.io/test-octopress/p/2013/12/17/ad3/"/>
+    <updated>2013-12-17T20:34:45+08:00</updated>
+    <id>http://cokeboy.github.io/test-octopress/p/2013/12/17/ad3</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[广告策划2]]></title>
+    <link href="http://cokeboy.github.io/test-octopress/p/2013/12/17/ad2/"/>
+    <updated>2013-12-17T20:34:45+08:00</updated>
+    <id>http://cokeboy.github.io/test-octopress/p/2013/12/17/ad2</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[广告和APP策划1]]></title>
+    <link href="http://cokeboy.github.io/test-octopress/p/2013/12/17/ad1/"/>
+    <updated>2013-12-17T20:34:45+08:00</updated>
+    <id>http://cokeboy.github.io/test-octopress/p/2013/12/17/ad1</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Test Blog]]></title>
+    <link href="http://cokeboy.github.io/test-octopress/p/2013/12/16/test-blog/"/>
+    <updated>2013-12-16T18:06:35+08:00</updated>
+    <id>http://cokeboy.github.io/test-octopress/p/2013/12/16/test-blog</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[名片设计3]]></title>
+    <link href="http://cokeboy.github.io/test-octopress/p/2013/12/16/card3/"/>
+    <updated>2013-12-16T18:06:13+08:00</updated>
+    <id>http://cokeboy.github.io/test-octopress/p/2013/12/16/card3</id>
+    <content type="html"><![CDATA[<p>sdfsdfs</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[名片设计2]]></title>
+    <link href="http://cokeboy.github.io/test-octopress/p/2013/12/16/card2/"/>
+    <updated>2013-12-16T18:06:13+08:00</updated>
+    <id>http://cokeboy.github.io/test-octopress/p/2013/12/16/card2</id>
+    <content type="html"><![CDATA[<p>sdfsdfs</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[名片设计1]]></title>
+    <link href="http://cokeboy.github.io/test-octopress/p/2013/12/16/card1/"/>
+    <updated>2013-12-16T18:06:13+08:00</updated>
+    <id>http://cokeboy.github.io/test-octopress/p/2013/12/16/card1</id>
+    <content type="html"><![CDATA[<h2>Portfolio Item Information</h2>
+
+
+<p>At vero eos et accusamus et iusto odio dignissimos <a href="#">ducimus qui blanditiis</a> praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum Fusce condimentum eleifend enim a feugiat. Pellentesque viverra vehicula sem ut volutpat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non libero magna. Sed et quam lacus.</p>
+
+
+<p>Molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Ut non libero consectetur adipiscing elit magna. Sed et quam lacus.</p>
+
+
+<ul class="list-unstyled">
+    <li><i class="icon-user color-green"></i> Jack Baur</li>
+    <li><i class="icon-calendar color-green"></i> 14,2003 February</li>
+    <li><i class="icon-tags color-green"></i> Websites, Google, HTML5/CSS3</li>
+</ul>
+
+
+<p><a class="btn-u btn-u-large" href="#">VISIT THE PROJECT</a></p>
+
+
+
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: App | My Octopress Blog]]></title>
+  <link href="http://cokeboy.github.io/test-octopress/p/categories/app/atom.xml" rel="self"/>
+  <link href="http://cokeboy.github.io/test-octopress/"/>
+  <updated>2014-01-01T21:55:15+08:00</updated>
+  <id>http://cokeboy.github.io/test-octopress/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[手机APP3]]></title>
+    <link href="http://cokeboy.github.io/test-octopress/p/2013/12/17/app3/"/>
+    <updated>2013-12-17T20:43:26+08:00</updated>
+    <id>http://cokeboy.github.io/test-octopress/p/2013/12/17/app3</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[手机APP2]]></title>
+    <link href="http://cokeboy.github.io/test-octopress/p/2013/12/17/app2/"/>
+    <updated>2013-12-17T20:43:26+08:00</updated>
+    <id>http://cokeboy.github.io/test-octopress/p/2013/12/17/app2</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[手机APP1]]></title>
+    <link href="http://cokeboy.github.io/test-octopress/p/2013/12/17/app1/"/>
+    <updated>2013-12-17T20:43:26+08:00</updated>
+    <id>http://cokeboy.github.io/test-octopress/p/2013/12/17/app1</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Web1]]></title>
+    <link href="http://cokeboy.github.io/test-octopress/p/2013/12/17/web1/"/>
+    <updated>2013-12-17T20:43:21+08:00</updated>
+    <id>http://cokeboy.github.io/test-octopress/p/2013/12/17/web1</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[广告和APP策划1]]></title>
+    <link href="http://cokeboy.github.io/test-octopress/p/2013/12/17/ad1/"/>
+    <updated>2013-12-17T20:34:45+08:00</updated>
+    <id>http://cokeboy.github.io/test-octopress/p/2013/12/17/ad1</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
