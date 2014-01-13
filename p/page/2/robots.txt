@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://cokeboy.github.io/test-octopress/sitemap.xml 
+Sitemap: http://imbigfacecat.github.io/sitemap.xml 
